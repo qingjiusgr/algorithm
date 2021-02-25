@@ -7,6 +7,5 @@ public class Test {
         //System.out.println(TwoPoints.getArrIndex(arr, 56).toString());
         int result = Difference.getIndex(arr,11);
         System.out.println(result);
-
     }
 }
